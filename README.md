@@ -26,3 +26,23 @@
             ├── urls.py
             └── views.py
 ```
+
+### polls 페이지
+```
+http://3.36.237.198:8000/polls
+```
+
+### polls/id 페이지
+```
+http://3.36.237.198:8000/polls/1/
+```
+
+### results 페이지
+```
+http://3.36.237.198:8000/polls/1/results
+```
+
+### admin 페이지
+```
+http://3.36.237.198:8000/admin
+```
